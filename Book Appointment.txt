@@ -1,0 +1,4 @@
+Enter patient ID: 1
+Enter doctor ID: 2
+Enter appointment date (YYYY-MM-DD): 2025-02-01
+Appointment booked successfully.

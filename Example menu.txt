@@ -1,0 +1,8 @@
+=== Hospital Management System ===
+1. Add Patient
+2. Add Doctor
+3. Book Appointment
+4. View Patients
+5. View Doctors
+6. Exit
+Enter your choice:
