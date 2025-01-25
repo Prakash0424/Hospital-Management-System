@@ -1,4 +1,4 @@
 Enter patient name: prakash
 Enter patient age: 20
-Enter patient gender: male
+Enter patient gender: 
 Patient added successfully.
